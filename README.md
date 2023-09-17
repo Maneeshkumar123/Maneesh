@@ -3,7 +3,7 @@
 
 - 🔭 I’m Studying in [Veltech University](https://www.veltech.edu.in/)
 
-- 🌱 I’m currently learning **Python Developer for Machine Learning, Artificial Intelligence & Data Science**
+- 🌱 I’m currently developing **Python for Machine Learning, Artificial Intelligence & Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Maneeshkumar123](https://github.com/Maneeshkumar123)
 
